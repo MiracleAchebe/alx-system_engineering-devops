@@ -1,2 +1,2 @@
 #!/bin/bash
-find . these type of file with name "*.js" delete
+find . type f name "*.js" - delete
